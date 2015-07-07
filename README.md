@@ -1,2 +1,1 @@
-# My-Uva-Solutions
-Some of my Uva solutions
+This repository contains some of my uva solutions
