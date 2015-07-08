@@ -1,3 +1,5 @@
+//UVa 661 - Blowing Fuses
+//Solution by harry7
 #include<iostream>
 #include<vector>
 #include<cmath>

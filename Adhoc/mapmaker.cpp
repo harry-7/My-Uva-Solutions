@@ -1,3 +1,5 @@
+//UVa 394 - Mapmaker
+//Solution by harry7
 #include<iostream>
 #include<vector>
 #include<cmath>

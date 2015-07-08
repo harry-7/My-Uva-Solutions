@@ -1,3 +1,5 @@
+//UVa 483 - Word Scramble
+//Solution by harry7
 #include<iostream>
 #include<vector>
 #include<cmath>

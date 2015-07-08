@@ -1,3 +1,5 @@
+//UVa 739 - Soundex Indexing
+//Solution by harry7
 #include<iostream>
 #include<vector>
 #include<cmath>

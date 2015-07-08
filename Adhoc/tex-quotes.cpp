@@ -1,3 +1,5 @@
+//UVa 272 - Tex Quotes
+//Solution by harry7
 #include<iostream>
 #include<cstdio>
 #include<cmath>

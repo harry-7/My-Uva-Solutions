@@ -1,3 +1,5 @@
+//UVa 573 - The Snail
+//Solution by harry7
 #include<iostream>
 #include<vector>
 #include<cmath>
