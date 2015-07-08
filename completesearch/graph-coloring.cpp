@@ -36,7 +36,6 @@ void solve(int u){
 	color[u]=WHITE;
 	solve(u+1);
 	colored[u]=0;
-
 }
 int main()
 {
